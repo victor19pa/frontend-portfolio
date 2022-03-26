@@ -11,7 +11,9 @@ import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
-import oracle from '../assets/oracle.png'
+import oracle from '../assets/oracle.png';
+import frontend from '../assets/frontend.png';
+import backend from '../assets/backend.png';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
