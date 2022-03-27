@@ -1,6 +1,5 @@
 import React from 'react';
-import { BsGithub, BsInstagram, BsWhatsapp } from 'react-icons/bs';
-import { FaFacebookF } from 'react-icons/fa';
+import { BsGithub, BsInstagram, BsWhatsapp, BsFillFileEarmarkPdfFill } from 'react-icons/bs';
 
 const SocialMedia = () => {
   return (
@@ -11,8 +10,8 @@ const SocialMedia = () => {
         </a>
       </div>
       <div>
-        <a href='https://www.facebook.com/Victor19P' target='_blank' rel='noreferrer'>
-          <FaFacebookF />
+        <a href='https://drive.google.com/file/d/1GslzAzTvtBkaoNWlt3S6gR51txPcyxUE/view?usp=sharing' target='_blank' rel='noreferrer'>
+          <BsFillFileEarmarkPdfFill />
         </a>
       </div>
       <div>
