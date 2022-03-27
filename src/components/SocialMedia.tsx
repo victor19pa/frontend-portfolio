@@ -20,12 +20,12 @@ const SocialMedia = () => {
         </a>
       </div>
       {/* <div>
-        <a href='../assets/pdf/VictorPinedaCV2022.pdf' target='_blank' rel='noreferrer'>
+        <a href='../assets/pdf/VictorPinedaCV2022.pdf' target='_blank' rel='noreferrer' download="VictorPinedaCV2022.pdf">
           <BsFillFileEarmarkPdfFill />
         </a>
       </div> */}
       <div>
-        <a href='https://www.instagram.com/victor19pa/' download="VictorPinedaCV2022" target='_blank' rel='noreferrer'>
+        <a href='https://www.instagram.com/victor19pa/' target='_blank' rel='noreferrer'>
           <BsInstagram />
         </a>
       </div>
