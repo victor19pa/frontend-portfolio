@@ -15,7 +15,7 @@ const SocialMedia = () => {
         </a>
       </div>
       <div>
-        <a href='https://drive.google.com/file/d/1GslzAzTvtBkaoNWlt3S6gR51txPcyxUE/view?usp=sharing' target='_blank' rel='noreferrer'>
+        <a href='https://drive.google.com/file/d/1gw8x1YTD7JVUCGaF3W5ZyAuIj4UUw23L/view?usp=sharing' target='_blank' rel='noreferrer'>
           <BsFillFileEarmarkPdfFill />
         </a>
       </div>
