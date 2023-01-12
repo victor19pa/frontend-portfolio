@@ -15,7 +15,7 @@ const SocialMedia = () => {
         </a>
       </div>
       <div>
-        <a href='https://drive.google.com/file/d/1gw8x1YTD7JVUCGaF3W5ZyAuIj4UUw23L/view?usp=sharing' target='_blank' rel='noreferrer'>
+        <a href='https://drive.google.com/file/d/16q1zmGCk5WHu6WxKV3r5ptkgqKgBr-1y/view?usp=sharing' target='_blank' rel='noreferrer'>
           <BsFillFileEarmarkPdfFill />
         </a>
       </div>
@@ -24,11 +24,11 @@ const SocialMedia = () => {
           <BsFillFileEarmarkPdfFill />
         </a>
       </div> */}
-      <div>
+      {/* <div>
         <a href='https://www.instagram.com/victor19pa/' target='_blank' rel='noreferrer'>
           <BsInstagram />
         </a>
-      </div>
+      </div> */}
       <div>
         <a href='https://wa.me/+50497677062' target='_blank' rel='noreferrer'>
           <BsWhatsapp />
